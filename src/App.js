@@ -12,7 +12,7 @@ const App = (props) => {
       >
         Count
       </button>
-      <h1>Name1: {props.name}</h1>
+      <h1>name</h1>
       <h1>Age1: {props.age}</h1>
     </div>
   );
